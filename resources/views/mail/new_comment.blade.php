@@ -1,0 +1,1 @@
+<p>You have received new Comment on Post with title "{{ $postTitle }}"</p>
