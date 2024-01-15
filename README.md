@@ -21,9 +21,9 @@ In the .env file you have to:
 2. Email Credentials (Required for User's Registration)
 
 Execute Commands:
-1. php artisan migrate
-2. composer install
-3. npm install
+1. composer install
+2. npm install
+3. php artisan migrate
 
 Setup CRON commands to execute scheduled tasks daily
 
