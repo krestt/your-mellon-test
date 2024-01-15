@@ -23,5 +23,5 @@ Execute Commands:
 2. composer install
 3. npm install
 
-Setup CRON commands to execute daily
+Setup CRON commands to execute scheduled tasks daily
 
