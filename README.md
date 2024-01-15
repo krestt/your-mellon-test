@@ -1,17 +1,13 @@
 # your-mellon-test
-
 Project for Job Application
-
 Minimal MVC structured Forum.
 
 
 # Main Models
-
 Users, Posts, Comments
 
 
 # Setup
-
 Create Database
 
 Rename .env.example into .env
@@ -27,3 +23,6 @@ Execute Commands:
 
 Setup CRON commands to execute scheduled tasks daily
 
+
+# DB Model Image
+![Alt text](db_model.png?raw=true "db model")
