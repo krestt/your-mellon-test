@@ -14,6 +14,8 @@ Users, Posts, Comments
 
 Create Database
 
+Rename .env.example into .env
+
 In the .env file you have to:
 1. Setup Database Credentials
 2. Email Credentials (Required for User's Registration)
