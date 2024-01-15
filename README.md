@@ -18,3 +18,4 @@ In the .env file you have to:
 3. Execute command : php artisan migrate
 4. Execute command : composer install
 5. Execute command : npm install
+6. Setup CRON commands to execute daily
