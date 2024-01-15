@@ -1,5 +1,5 @@
 # your-mellon-test
-Project for Job Application
+Project for Job Application.
 Minimal MVC structured Forum.
 
 
